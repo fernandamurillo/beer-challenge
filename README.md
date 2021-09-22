@@ -17,9 +17,6 @@ Contains a collection of methods for answering Data Science Beer Challenge Quest
 7.	How do find similar beer drinkers by using written reviews only?   
 
 To run:
-'''sh
+```sh
 python3 answers.py
-'''
-
-## visuals.py
-Contains methods to visualize results used for presentation slides
+```
